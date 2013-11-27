@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.20827.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YellAtMe", "PhoneXamlDirect3DApp1\PhoneXamlDirect3DApp1\YellAtMe.csproj", "{ED057BCF-1E77-43DF-842D-A3BE6B5F437E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YellAtMe", "YellAtMe\YellAtMe.csproj", "{ED057BCF-1E77-43DF-842D-A3BE6B5F437E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
